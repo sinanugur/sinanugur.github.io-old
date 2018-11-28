@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>serum on myRNA</title>
-    <link>sinanugur.github.io/tags/serum/</link>
-    <description>Recent content in serum on myRNA</description>
+    <title>serum on myRNA, yet another RNA blog.</title>
+    <link>https://sinanugur.github.io/tags/serum/</link>
+    <description>Recent content in serum on myRNA, yet another RNA blog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="sinanugur.github.io/tags/serum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sinanugur.github.io/tags/serum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A comprehensive profile of circulating RNAs in human serum</title>
-      <link>sinanugur.github.io/publication/rna-serum/</link>
+      <link>https://sinanugur.github.io/publication/rna-serum/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0100</pubDate>
       
-      <guid>sinanugur.github.io/publication/rna-serum/</guid>
+      <guid>https://sinanugur.github.io/publication/rna-serum/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

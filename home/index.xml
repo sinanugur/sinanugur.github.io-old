@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on myRNA</title>
-    <link>sinanugur.github.io/home/</link>
-    <description>Recent content in Homes on myRNA</description>
+    <title>Homes on myRNA, yet another RNA blog.</title>
+    <link>https://sinanugur.github.io/home/</link>
+    <description>Recent content in Homes on myRNA, yet another RNA blog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="sinanugur.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sinanugur.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>sinanugur.github.io/home/hero_carousel/</link>
+      <link>https://sinanugur.github.io/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/hero_carousel/</guid>
+      <guid>https://sinanugur.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>sinanugur.github.io/home/hero/</link>
+      <link>https://sinanugur.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/hero/</guid>
+      <guid>https://sinanugur.github.io/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
       <title></title>
-      <link>sinanugur.github.io/home/about/</link>
+      <link>https://sinanugur.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/about/</guid>
+      <guid>https://sinanugur.github.io/home/about/</guid>
       <description>Biography I am a postdoc at Cancer Registry of Norway, Oslo. My research interests include RNA sequencing, early detection of cancer (e.g. lung, colorectal) and RNA-RNA interactions.
 I did my PhD (Biotechnology/Bioinformatics) at University of Canterbury, New Zealand. I was working on non-coding RNA interactions in prokaryotes. My PhD thesis focused on ncRNA-mRNA interactions in prokaryotic genomes (bacteria and archaea).</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>sinanugur.github.io/home/skills/</link>
+      <link>https://sinanugur.github.io/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/skills/</guid>
+      <guid>https://sinanugur.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>sinanugur.github.io/home/experience/</link>
+      <link>https://sinanugur.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sinanugur.github.io/home/experience/</guid>
+      <guid>https://sinanugur.github.io/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>sinanugur.github.io/home/publications_selected/</link>
+      <link>https://sinanugur.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/publications_selected/</guid>
+      <guid>https://sinanugur.github.io/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>sinanugur.github.io/home/publications/</link>
+      <link>https://sinanugur.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/publications/</guid>
+      <guid>https://sinanugur.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>sinanugur.github.io/home/talks_selected/</link>
+      <link>https://sinanugur.github.io/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/talks_selected/</guid>
+      <guid>https://sinanugur.github.io/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>sinanugur.github.io/home/talks/</link>
+      <link>https://sinanugur.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/talks/</guid>
+      <guid>https://sinanugur.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>sinanugur.github.io/home/posts/</link>
+      <link>https://sinanugur.github.io/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/posts/</guid>
+      <guid>https://sinanugur.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>sinanugur.github.io/home/projects/</link>
+      <link>https://sinanugur.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/projects/</guid>
+      <guid>https://sinanugur.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>sinanugur.github.io/home/teaching/</link>
+      <link>https://sinanugur.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/teaching/</guid>
+      <guid>https://sinanugur.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -125,19 +125,19 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>sinanugur.github.io/home/tags/</link>
+      <link>https://sinanugur.github.io/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/tags/</guid>
+      <guid>https://sinanugur.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>sinanugur.github.io/home/contact/</link>
+      <link>https://sinanugur.github.io/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>sinanugur.github.io/home/contact/</guid>
+      <guid>https://sinanugur.github.io/home/contact/</guid>
       <description></description>
     </item>
     
