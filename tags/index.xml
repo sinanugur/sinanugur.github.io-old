@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://sinanugur.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Demo</title>
       <link>https://sinanugur.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
@@ -31,9 +22,45 @@
     </item>
     
     <item>
+      <title>avoidance</title>
+      <link>https://sinanugur.github.io/tags/avoidance/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/avoidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binding</title>
+      <link>https://sinanugur.github.io/tags/binding/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/binding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interaction</title>
+      <link>https://sinanugur.github.io/tags/interaction/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/interaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mirna</title>
+      <link>https://sinanugur.github.io/tags/mirna/</link>
+      <pubDate>Fri, 16 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/mirna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ncRNA</title>
       <link>https://sinanugur.github.io/tags/ncrna/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>https://sinanugur.github.io/tags/ncrna/</guid>
       <description></description>
@@ -45,6 +72,15 @@
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>https://sinanugur.github.io/tags/rna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rna-rna</title>
+      <link>https://sinanugur.github.io/tags/rna-rna/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/rna-rna/</guid>
       <description></description>
     </item>
     
