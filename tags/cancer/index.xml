@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mirna on myRNA, yet another RNA blog.</title>
-    <link>https://sinanugur.github.io/tags/mirna/</link>
-    <description>Recent content in mirna on myRNA, yet another RNA blog.</description>
+    <title>cancer on myRNA, yet another RNA blog.</title>
+    <link>https://sinanugur.github.io/tags/cancer/</link>
+    <description>Recent content in cancer on myRNA, yet another RNA blog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://sinanugur.github.io/tags/mirna/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sinanugur.github.io/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://sinanugur.github.io/project/serum-rna-biomarkers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A probabilistic approach to microRNA-target binding</title>
-      <link>https://sinanugur.github.io/publication/mirna-binding/</link>
-      <pubDate>Fri, 16 Sep 2011 00:00:00 +0200</pubDate>
-      
-      <guid>https://sinanugur.github.io/publication/mirna-binding/</guid>
       <description></description>
     </item>
     

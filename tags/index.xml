@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sinanugur.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Demo</title>
-      <link>https://sinanugur.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>avoidance</title>
@@ -40,6 +30,15 @@
     </item>
     
     <item>
+      <title>cancer</title>
+      <link>https://sinanugur.github.io/tags/cancer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>interaction</title>
       <link>https://sinanugur.github.io/tags/interaction/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
@@ -51,7 +50,7 @@
     <item>
       <title>mirna</title>
       <link>https://sinanugur.github.io/tags/mirna/</link>
-      <pubDate>Fri, 16 Sep 2011 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://sinanugur.github.io/tags/mirna/</guid>
       <description></description>
@@ -69,7 +68,7 @@
     <item>
       <title>rna</title>
       <link>https://sinanugur.github.io/tags/rna/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>https://sinanugur.github.io/tags/rna/</guid>
       <description></description>
@@ -87,7 +86,7 @@
     <item>
       <title>serum</title>
       <link>https://sinanugur.github.io/tags/serum/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>https://sinanugur.github.io/tags/serum/</guid>
       <description></description>

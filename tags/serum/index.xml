@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://sinanugur.github.io/tags/serum/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A high-resolution map of the human small non-coding transcriptome</title>
+      <link>https://sinanugur.github.io/publication/sncrna-map/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/publication/sncrna-map/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A comprehensive profile of circulating RNAs in human serum</title>
@@ -18,6 +27,15 @@
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0100</pubDate>
       
       <guid>https://sinanugur.github.io/publication/rna-serum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serum RNA bio-markers of Cancer</title>
+      <link>https://sinanugur.github.io/project/serum-rna-biomarkers/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://sinanugur.github.io/project/serum-rna-biomarkers/</guid>
       <description></description>
     </item>
     
