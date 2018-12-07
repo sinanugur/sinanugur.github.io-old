@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>https://sinanugur.github.io/publication/rna-traits/</loc>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sinanugur.github.io/project/serum-rna-biomarkers/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
     </url>
     
   
@@ -13,7 +21,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/project/rna-rna-avoidance/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
     </url>
     
   
@@ -117,7 +125,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/publication_types/2/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -134,7 +142,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/project/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -143,7 +151,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/publication_types/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -176,8 +184,17 @@
     
     <url>
     
+      <loc>https://sinanugur.github.io/tags/age/</loc>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sinanugur.github.io/tags/avoidance/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -186,7 +203,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/binding/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -195,7 +212,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/cancer/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -204,7 +221,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/interaction/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -213,7 +230,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/mirna/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -231,7 +248,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/ncrna/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -240,7 +257,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/rna/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -249,7 +266,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/rna-rna/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -258,7 +275,34 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/serum/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sinanugur.github.io/tags/sex/</loc>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sinanugur.github.io/tags/smoking/</loc>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sinanugur.github.io/tags/traits/</loc>
+      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
