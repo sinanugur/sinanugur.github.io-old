@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>https://sinanugur.github.io/publication/hpv-tameseq/</loc>
+      <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://sinanugur.github.io/publication/rna-traits/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
     </url>
     
   
@@ -109,7 +117,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/publication/areba1/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
     </url>
     
   
@@ -117,7 +125,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/publication/mirna-binding/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
     </url>
     
   
@@ -125,7 +133,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/publication_types/2/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -134,6 +142,15 @@
     <url>
     
       <loc>https://sinanugur.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sinanugur.github.io/tags/ngs/</loc>
+      <lastmod>2019-01-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -151,7 +168,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/publication_types/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2019-01-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -177,6 +194,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/</loc>
+      <lastmod>2019-01-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -185,7 +203,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/age/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -213,6 +231,15 @@
     
       <loc>https://sinanugur.github.io/tags/cancer/</loc>
       <lastmod>2018-12-03T22:59:10+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://sinanugur.github.io/tags/hpv/</loc>
+      <lastmod>2019-01-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -248,7 +275,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/ncrna/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -257,7 +284,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/rna/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -275,7 +302,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/serum/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -284,7 +311,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/sex/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -293,7 +320,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/smoking/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -302,7 +329,7 @@
     <url>
     
       <loc>https://sinanugur.github.io/tags/traits/</loc>
-      <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
       <priority>0</priority>
     </url>
     

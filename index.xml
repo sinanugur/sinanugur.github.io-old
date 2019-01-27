@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>TaME-seq: An efficient sequencing approach for characterisation of HPV genomic variability and chromosomal integration</title>
+      <link>https://sinanugur.github.io/publication/hpv-tameseq/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/publication/hpv-tameseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Circulating small non-coding RNAs associated with age, sex, smoking, body mass and physical activity</title>
       <link>https://sinanugur.github.io/publication/rna-traits/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>

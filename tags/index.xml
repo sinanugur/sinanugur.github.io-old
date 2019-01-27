@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://sinanugur.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NGS</title>
+      <link>https://sinanugur.github.io/tags/ngs/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/ngs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>age</title>
@@ -44,6 +54,15 @@
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>https://sinanugur.github.io/tags/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hpv</title>
+      <link>https://sinanugur.github.io/tags/hpv/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://sinanugur.github.io/tags/hpv/</guid>
       <description></description>
     </item>
     
