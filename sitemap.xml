@@ -4,12 +4,102 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lung1/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/age/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andreas-keller/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/eckart-meese/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hilde-langseth/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ncrna/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rna/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-lyle/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/serum/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sex/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sinan-u.-umu/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/smoking/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/traits/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/trine-b.-rounge/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/aslaug-helland/</loc>
+    <lastmod>2019-12-18T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -24,11 +114,6 @@
   
   <url>
     <loc>/author/maija-lepisto/</loc>
-    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-01-27T00:00:00+01:00</lastmod>
   </url>
   
@@ -48,11 +133,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/roger-meisal/</loc>
     <lastmod>2019-01-27T00:00:00+01:00</lastmod>
   </url>
@@ -68,37 +148,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/hpv-tameseq/</loc>
     <lastmod>2019-01-27T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/trine-b.-rounge/</loc>
-    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/age/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andreas-keller/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/rna-traits/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/eckart-meese/</loc>
     <lastmod>2018-12-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -108,52 +163,7 @@
   </url>
   
   <url>
-    <loc>/author/hilde-langseth/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/ncrna/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/rna/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/robert-lyle/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/serum/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sex/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sinan-u.-umu/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/smoking/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/steinar-tretli/</loc>
-    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/traits/</loc>
     <lastmod>2018-12-05T00:00:00+01:00</lastmod>
   </url>
   

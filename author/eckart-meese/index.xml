@@ -5,12 +5,20 @@
     <link>/author/eckart-meese/</link>
       <atom:link href="/author/eckart-meese/index.xml" rel="self" type="application/rss+xml" />
     <description>Eckart Meese</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Eckart Meese</title>
       <link>/author/eckart-meese/</link>
     </image>
+    
+    <item>
+      <title>A 10 year prediagnostic followup study shows that serum RNA signals are highly dynamic in lung carcinogenesis</title>
+      <link>/publication/lung1/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/lung1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Circulating small non-coding RNAs associated with age, sex, smoking, body mass and physical activity</title>
