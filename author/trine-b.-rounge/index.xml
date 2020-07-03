@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trine B. Rounge | myRNA, yet another RNA blog.</title>
+    <link>/author/trine-b.-rounge/</link>
+      <atom:link href="/author/trine-b.-rounge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trine B. Rounge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Trine B. Rounge</title>
+      <link>/author/trine-b.-rounge/</link>
+    </image>
+    
+    <item>
+      <title>TaME-seq: An efficient sequencing approach for characterisation of HPV genomic variability and chromosomal integration</title>
+      <link>/publication/hpv-tameseq/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/hpv-tameseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating small non-coding RNAs associated with age, sex, smoking, body mass and physical activity</title>
+      <link>/publication/rna-traits/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/rna-traits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,151 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on myRNA, yet another RNA blog.</title>
-    <link>https://sinanugur.github.io/tags/</link>
-    <description>Recent content in Tags on myRNA, yet another RNA blog.</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://sinanugur.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>NGS</title>
-      <link>https://sinanugur.github.io/tags/ngs/</link>
-      <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/ngs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>age</title>
-      <link>https://sinanugur.github.io/tags/age/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/age/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>avoidance</title>
-      <link>https://sinanugur.github.io/tags/avoidance/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/avoidance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>binding</title>
-      <link>https://sinanugur.github.io/tags/binding/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/binding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cancer</title>
-      <link>https://sinanugur.github.io/tags/cancer/</link>
-      <pubDate>Sun, 02 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hpv</title>
-      <link>https://sinanugur.github.io/tags/hpv/</link>
-      <pubDate>Sun, 27 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/hpv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>interaction</title>
-      <link>https://sinanugur.github.io/tags/interaction/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/interaction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mirna</title>
-      <link>https://sinanugur.github.io/tags/mirna/</link>
-      <pubDate>Sun, 02 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/mirna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ncRNA</title>
-      <link>https://sinanugur.github.io/tags/ncrna/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/ncrna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rna</title>
-      <link>https://sinanugur.github.io/tags/rna/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/rna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rna-rna</title>
-      <link>https://sinanugur.github.io/tags/rna-rna/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/rna-rna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>serum</title>
-      <link>https://sinanugur.github.io/tags/serum/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/serum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sex</title>
-      <link>https://sinanugur.github.io/tags/sex/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/sex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>smoking</title>
-      <link>https://sinanugur.github.io/tags/smoking/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/smoking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>traits</title>
-      <link>https://sinanugur.github.io/tags/traits/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://sinanugur.github.io/tags/traits/</guid>
-      <description></description>
-    </item>
+    <title>Tags | myRNA, yet another RNA blog.</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
   </channel>
 </rss>

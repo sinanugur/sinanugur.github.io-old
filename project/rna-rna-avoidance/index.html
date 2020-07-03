@@ -1,15 +1,27 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!DOCTYPE html><html lang="en-us" >
+
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.2.0">
-  <meta name="generator" content="Hugo 0.53" />
-  <meta name="author" content="Sinan U. Umu">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Sinan U. Umu">
+
   
   
   
@@ -18,22 +30,10 @@
   <meta name="description" content="This project includes RNA-RNA interaction prediction benchmark and Avoidance project.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sinanugur.github.io/project/rna-rna-avoidance/">
+  <link rel="alternate" hreflang="en-us" href="/project/rna-rna-avoidance/">
 
   
 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
   
   
@@ -43,13 +43,15 @@
 
   
   
+
+  
+  
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -60,60 +62,173 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
-  
-
-  
-  
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
-  
-
-  <link rel="stylesheet" href="/styles.css">
-  
-
-  
-  
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-130264448-1', 'auto');
+    
+    
       
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
+
+      
+      
+
+      
     
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
     
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
   
   
 
   
-  <link rel="alternate" href="https://sinanugur.github.io/index.xml" type="application/rss+xml" title="myRNA, yet another RNA blog.">
-  <link rel="feed" href="https://sinanugur.github.io/index.xml" type="application/rss+xml" title="myRNA, yet another RNA blog.">
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="/project/rna-rna-avoidance/">
+
   
-
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
-
-  <link rel="canonical" href="https://sinanugur.github.io/project/rna-rna-avoidance/">
-
+  
+  
   
   
   
   
     
     
+  
   
   <meta property="twitter:card" content="summary">
   
@@ -121,24 +236,80 @@
   <meta property="twitter:creator" content="@sinanugur">
   
   <meta property="og:site_name" content="myRNA, yet another RNA blog.">
-  <meta property="og:url" content="https://sinanugur.github.io/project/rna-rna-avoidance/">
+  <meta property="og:url" content="/project/rna-rna-avoidance/">
   <meta property="og:title" content="RNA-RNA interactions and Avoidance | myRNA, yet another RNA blog.">
-  <meta property="og:description" content="This project includes RNA-RNA interaction prediction benchmark and Avoidance project."><meta property="og:image" content="https://sinanugur.github.io/img/portrait.jpg">
-  <meta property="og:locale" content="en-us">
+  <meta property="og:description" content="This project includes RNA-RNA interaction prediction benchmark and Avoidance project."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-12-01T00:00:00&#43;01:00">
-  
-  <meta property="article:modified_time" content="2018-12-03T22:59:10&#43;01:00">
+    
+      <meta property="article:published_time" content="2018-12-01T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2018-12-01T00:00:00&#43;01:00">
   
 
   
 
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/project/rna-rna-avoidance/"
+  },
+  "headline": "RNA-RNA interactions and Avoidance",
   
+  "datePublished": "2018-12-01T00:00:00+01:00",
+  "dateModified": "2018-12-01T00:00:00+01:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sinan U. Umu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "myRNA, yet another RNA blog.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "This project includes RNA-RNA interaction prediction benchmark and Avoidance project."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
 
   <title>RNA-RNA interactions and Avoidance | myRNA, yet another RNA blog.</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
@@ -155,7 +326,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -171,124 +342,201 @@
 </aside>
 
 
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">myRNA, yet another RNA blog.</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
 
-      
-      
-      <ul class="navbar-nav ml-auto">
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#about">
-            
-            <span>Home</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
-            
-            <span>Publications</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#posts">
-            
-            <span>Posts</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#projects">
-            
-            <span>Projects</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-      
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-
-      </ul>
-
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">myRNA, yet another RNA blog.</a>
     </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
-<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+  <article class="article article-project">
 
   
 
@@ -309,84 +557,38 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">RNA-RNA interactions and Avoidance</h1>
+  <h1>RNA-RNA interactions and Avoidance</h1>
 
   
 
   
     
+
 
 <div class="article-metadata">
 
   
   
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Sinan U. Umu">
-  </span>
-  
 
+  
   <span class="article-date">
     
-        Last updated on
     
-    <meta content="2018-12-01 00:00:00 &#43;0100 CET" itemprop="datePublished">
-    <time datetime="2018-12-03 22:59:10 &#43;0100 CET" itemprop="dateModified">
-      Dec 3, 2018
-    </time>
+      
+    
+    Dec 1, 2018
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Sinan U. Umu">
-  </span>
-
   
 
-  
   
 
   
 
   
   
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    <li>
-      <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=RNA-RNA%20interactions%20and%20Avoidance&amp;url=https%3a%2f%2fsinanugur.github.io%2fproject%2frna-rna-avoidance%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-    <li>
-      <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsinanugur.github.io%2fproject%2frna-rna-avoidance%2f"
-         target="_blank" rel="noopener">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-    </li>
-    <li>
-      <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsinanugur.github.io%2fproject%2frna-rna-avoidance%2f&amp;title=RNA-RNA%20interactions%20and%20Avoidance"
-         target="_blank" rel="noopener">
-        <i class="fab fa-linkedin-in"></i>
-      </a>
-    </li>
-    <li>
-      <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsinanugur.github.io%2fproject%2frna-rna-avoidance%2f&amp;title=RNA-RNA%20interactions%20and%20Avoidance"
-         target="_blank" rel="noopener">
-        <i class="fab fa-weibo"></i>
-      </a>
-    </li>
-    <li>
-      <a class="email"
-         href="mailto:?subject=RNA-RNA%20interactions%20and%20Avoidance&amp;body=https%3a%2f%2fsinanugur.github.io%2fproject%2frna-rna-avoidance%2f">
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  </ul>
-</div>
+  
 
-
+  
   
 
 </div>
@@ -399,64 +601,11 @@
 
 
 
-  
 
 
 
 
 
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://twitter.com/sinanugur" target="_blank" rel="noopener">
-    <i class="fab fa-twitter mr-1"></i>
-    Follow
-  </a>
-
-
-</div>
 
 
   
@@ -466,153 +615,296 @@
 
   <div class="article-container">
 
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       
     </div>
 
     
 
 
+
+
+
+
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/rna-rna/">rna-rna</a>
+  <a class="badge badge-light" href="/tag/rna-rna/">rna-rna</a>
   
-  <a class="badge badge-light" href="/tags/binding/">binding</a>
+  <a class="badge badge-light" href="/tag/binding/">binding</a>
   
-  <a class="badge badge-light" href="/tags/interaction/">interaction</a>
+  <a class="badge badge-light" href="/tag/interaction/">interaction</a>
   
-  <a class="badge badge-light" href="/tags/ncrna/">ncRNA</a>
+  <a class="badge badge-light" href="/tag/ncrna/">ncRNA</a>
   
-  <a class="badge badge-light" href="/tags/avoidance/">avoidance</a>
+  <a class="badge badge-light" href="/tag/avoidance/">avoidance</a>
   
 </div>
 
 
 
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
-
-
-
-
-
-
-<div class="media author-card" itemscope itemtype="http://schema.org/Person">
-  
-  <img class="portrait mr-3" src="https://s.gravatar.com/avatar/4df5d02e521e4d65dcaf183e096809cf?s=200')" itemprop="image" alt="Avatar">
-  
-  <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/">Sinan U. Umu</a></h5>
-    <h6 class="card-subtitle">Postdoctoral Scientist</h6>
-    
-    <ul class="network-icon" aria-hidden="true">
-      
       
       
       
         
-      
-      
       
       
       
       <li>
-        <a itemprop="sameAs" href="mailto:sinanugur@gmail.com" >
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <a itemprop="sameAs" href="https://twitter.com/sinanugur" target="_blank" rel="noopener">
+        <a href="https://twitter.com/intent/tweet?url=/project/rna-rna-avoidance/&amp;text=RNA-RNA%20interactions%20and%20Avoidance" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
-      
-      
-      
-      
-      
+    
       
       
       
         
+      
+      
       
       <li>
-        <a itemprop="sameAs" href="https://scholar.google.co.nz/citations?user=eCJhaHoAAAAJ&amp;hl=en" target="_blank" rel="noopener">
-          <i class="ai ai-google-scholar"></i>
+        <a href="https://www.facebook.com/sharer.php?u=/project/rna-rna-avoidance/&amp;t=RNA-RNA%20interactions%20and%20Avoidance" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
-      
-      
-      
-      
-        
-      
-      
+    
       
       
       
         
+      
+      
       
       <li>
-        <a itemprop="sameAs" href="https://github.com/sinanugur" target="_blank" rel="noopener">
-          <i class="fab fa-github"></i>
+        <a href="mailto:?subject=RNA-RNA%20interactions%20and%20Avoidance&amp;body=/project/rna-rna-avoidance/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
         </a>
       </li>
-      
-      
-      
-      
-        
-      
-      
+    
       
       
       
         
+      
+      
       
       <li>
-        <a itemprop="sameAs" href="https://www.linkedin.com/in/sinanugur/" target="_blank" rel="noopener">
-          <i class="fab fa-linkedin"></i>
+        <a href="https://www.linkedin.com/shareArticle?url=/project/rna-rna-avoidance/&amp;title=RNA-RNA%20interactions%20and%20Avoidance" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
-      
-      
-      
-      
-      
+    
       
       
       
         
       
+      
+      
       <li>
-        <a itemprop="sameAs" href="https://www.researchgate.net/profile/Sinan_Umu" target="_blank" rel="noopener">
-          <i class="ai ai-researchgate"></i>
+        <a href="whatsapp://send?text=RNA-RNA%20interactions%20and%20Avoidance%20/project/rna-rna-avoidance/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
         </a>
       </li>
+    
       
-    </ul>
-  </div>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/project/rna-rna-avoidance/&amp;title=RNA-RNA%20interactions%20and%20Avoidance" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
 </div>
 
 
 
 
-    
-    
 
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
     
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        <img class="avatar mr-3 avatar-circle" src="https://s.gravatar.com/avatar/4df5d02e521e4d65dcaf183e096809cf?s=200')" alt="Sinan U. Umu">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/">Sinan U. Umu</a></h5>
+        <h6 class="card-subtitle">Postdoctoral Scientist</h6>
+        <p class="card-text">My research interests include cancer bioinformatics and RNA biology.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:sinanugur@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/sinanugur" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.nz/citations?user=eCJhaHoAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/sinanugur" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/sinanugur/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Sinan_Umu" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/rna-traits/">Circulating small non-coding RNAs associated with age, sex, smoking, body mass and physical activity</a></li>
+      
+      <li><a href="/publication/sncrna-map/">A high-resolution map of the human small non-coding transcriptome</a></li>
+      
+      <li><a href="/publication/rna-serum/">A comprehensive profile of circulating RNAs in human serum</a></li>
+      
+      <li><a href="/publication/areba1/">Robust Identification of Noncoding RNA from Transcriptomes Requires Phylogenetically-Informed Sampling</a></li>
+      
+      <li><a href="/publication/mirna-binding/">A probabilistic approach to microRNA-target binding</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
 
       
       
@@ -624,12 +916,9 @@
         <h2>Publications</h2>
         
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/rna-rna-benchmark/" itemprop="name">A comprehensive benchmark of RNA–RNA interaction prediction tools for all domains of life</a>
-  <div itemprop="author">
-    Sinan U. Umu, Paul P. Gardner</div>
-  <p>
+            
+
+
 
 
 
@@ -637,12 +926,57 @@
 
 
   
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/rna-rna-benchmark/" >A comprehensive benchmark of RNA–RNA interaction prediction tools for all domains of life</a>
+    </h3>
+
+    
+    <div class="article-style">
+      The aim of this study is to assess the performance of RNA–RNA interaction prediction tools for all domains of life. Minimum free energy …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span >Sinan U. Umu</span>, <span >Paul P. Gardner</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
 
 
 
   
     
   
+
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://academic.oup.com/bioinformatics/article-pdf/33/7/988/25149806/btw728.pdf" target="_blank" rel="noopener">
@@ -674,18 +1008,23 @@
 </a>
 
 
-</p>
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
 </div>
 
           
         
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/avoidance/" itemprop="name">Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea</a>
-  <div itemprop="author">
-    Sinan Uğur Umu, Anthony M. Poole, Renwick CJ Dobson, Paul P. Gardner</div>
-  <p>
+            
+
+
 
 
 
@@ -693,6 +1032,50 @@
 
 
   
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/avoidance/" >Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea</a>
+    </h3>
+
+    
+    <div class="article-style">
+      A critical assumption of gene expression analysis is that mRNA abundances broadly correlate with protein abundance, but these two are …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span >Sinan Uğur Umu</span>, <span >Anthony M. Poole</span>, <span >Renwick CJ Dobson</span>, <span >Paul P. Gardner</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
 
 
 
@@ -701,16 +1084,12 @@
   
 
 
+
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://elifesciences.org/articles/13479" target="_blank" rel="noopener">
   PDF
 </a>
 
 
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/avoidance/13479.bib">
-  Cite
-</button>
 
 
 
@@ -735,34 +1114,28 @@
 </a>
 
 
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://example.org" target="_blank" rel="noopener">
-    
-    Custom Link
-  </a>
 
-</p>
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/avoidance/" >
+      <img src="/publication/avoidance/featured_huf0dbaf0a3eab1fccfc9c340d2b01d255_77667_150x0_resize_q90_lanczos.jpg" alt="Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea">
+    </a>
+    
+  </div>
 </div>
 
           
         
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/areba1/" itemprop="name">Robust Identification of Noncoding RNA from Transcriptomes Requires Phylogenetically-Informed Sampling</a>
-  <div itemprop="author">
-    Stinus Lindgreen, Sinan Uğur Umu, Alicia Sook-Wei Lai, Hisham Eldai, Wenting Liu, Stephanie McGimpsey, Nicole E. Wheeler, Patrick J. Biggs, Nick R. Thomson, Lars Barquist, Anthony M. Poole, Paul P. Gardner</div>
-  <p>
+            
+
+
 
 
 
@@ -770,12 +1143,57 @@
 
 
   
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/areba1/" >Robust Identification of Noncoding RNA from Transcriptomes Requires Phylogenetically-Informed Sampling</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Noncoding RNAs are integral to a wide range of biological processes, including translation, gene regulation, host-pathogen interactions …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span >Stinus Lindgreen</span>, <span >Sinan Uğur Umu</span>, <span >Alicia Sook-Wei Lai</span>, <span >Hisham Eldai</span>, <span >Wenting Liu</span>, <span >Stephanie McGimpsey</span>, <span >Nicole E. Wheeler</span>, <span >Patrick J. Biggs</span>, <span >Nick R. Thomson</span>, <span >Lars Barquist</span>, <span >Anthony M. Poole</span>, <span >Paul P. Gardner</span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
 
 
 
   
     
   
+
 
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003907&amp;type=printable" target="_blank" rel="noopener">
@@ -803,7 +1221,15 @@
 
 
 
-</p>
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
 </div>
 
           
@@ -813,119 +1239,62 @@
       
       
       
-    
-
+    </div>
   </div>
 </article>
 
-
-
-<div class="container">
-  <footer class="site-footer">
-  
-
-  <p class="powered-by">
-    &copy; 2018 &middot; 
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
-
-    
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-</div>
-
-
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-    
-
-    
-    
+      
 
     
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
     
 
     
     
-      <script async defer src="//maps.googleapis.com/maps/api/js?key="></script>
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
-      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
     
     
-
     
-    
-    <script>hljs.initHighlightingOnLoad();</script>
-    
-
     
     
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks"
+        'talk' : "Talks",
+        'slides' : "Slides"
         };
     </script>
     
@@ -959,16 +1328,96 @@
 
     
     
+
+    
+    
+
     
     
     
     
     
     
-    <script src="/js/academic.min.d037ee5294b166a79dec317c58aea9cc.js"></script>
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 
-  </body>
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © 2020
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
 </html>
-

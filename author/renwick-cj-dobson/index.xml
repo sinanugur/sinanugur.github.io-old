@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renwick CJ Dobson | myRNA, yet another RNA blog.</title>
+    <link>/author/renwick-cj-dobson/</link>
+      <atom:link href="/author/renwick-cj-dobson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Renwick CJ Dobson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 20 Sep 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Renwick CJ Dobson</title>
+      <link>/author/renwick-cj-dobson/</link>
+    </image>
+    
+    <item>
+      <title>Avoidance of stochastic RNA interactions can be harnessed to control protein expression levels in bacteria and archaea</title>
+      <link>/publication/avoidance/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0200</pubDate>
+      <guid>/publication/avoidance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

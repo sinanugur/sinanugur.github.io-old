@@ -1,337 +1,466 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/hpv-tameseq/</loc>
-      <lastmod>2019-01-27T21:42:57+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/rna-traits/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/project/serum-rna-biomarkers/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/hpv/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/project/rna-rna-avoidance/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/irene-kraus-christiansen/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tutorial/example/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/maija-lepisto/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tutorial/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/sncrna-map/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/ngs/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/rna-serum/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/ole-herman-ambur/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/talk/example/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/pekka-ellonen/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/post/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/roger-meisal/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/talk/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/sinan-ugur-umu/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/rna-rna-benchmark/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/sonja-lagstrom/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/avoidance/</loc>
-      <lastmod>2018-12-02T17:57:03+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/areba1/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/hpv-tameseq/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication/mirna-binding/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/trine-b.-rounge/</loc>
+    <lastmod>2019-01-27T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication_types/2/</loc>
-      <lastmod>2019-01-27T21:42:57+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/age/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/andreas-keller/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/ngs/</loc>
-      <lastmod>2019-01-27T21:42:57+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/rna-traits/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/project/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/eckart-meese/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/publication_types/</loc>
-      <lastmod>2019-01-27T21:42:57+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/giske-ursin/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/slides/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/hilde-langseth/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/slides/example-slides/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/ncrna/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/</loc>
-      <lastmod>2019-01-27T21:42:57+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/rna/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/age/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/robert-lyle/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/avoidance/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/serum/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/binding/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/sex/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/cancer/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/sinan-u.-umu/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/hpv/</loc>
-      <lastmod>2019-01-27T21:42:57+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/smoking/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/interaction/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/steinar-tretli/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/mirna/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/traits/</loc>
+    <lastmod>2018-12-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/</loc>
-      <lastmod>2018-11-28T18:54:14+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/cancer/</loc>
+    <lastmod>2018-12-02T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/ncrna/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/mirna/</loc>
+    <lastmod>2018-12-02T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/rna/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-12-02T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/rna-rna/</loc>
-      <lastmod>2018-12-03T22:59:10+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/serum-rna-biomarkers/</loc>
+    <lastmod>2018-12-02T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/serum/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/avoidance/</loc>
+    <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/sex/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/binding/</loc>
+    <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/smoking/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/interaction/</loc>
+    <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://sinanugur.github.io/tags/traits/</loc>
-      <lastmod>2018-12-07T13:35:30+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/rna-rna/</loc>
+    <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/rna-rna-avoidance/</loc>
+    <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sncrna-map/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/andre-franke/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/benjamin-meder/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christina-backes/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cord-staehler/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fabian-kern/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hans-peter-lenhof/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jan-haas/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/julia-alles/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-hart/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthias-hubenthal/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mustafa-kahraman/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicole-ludwig/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-laufer/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tobias-fehlmann/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/trine-rounge/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ulrike-fischer/</loc>
+    <lastmod>2017-12-21T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rna-serum/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bucher-johannessen-c/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/fromm-b/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/keller-a/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/langseth-h/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lauritzen-m/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leithaug-m/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lyle-r/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/meese-e/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rounge-t/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/umu-su/</loc>
+    <lastmod>2017-12-08T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/rna-rna-benchmark/</loc>
+    <lastmod>2016-12-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paul-p.-gardner/</loc>
+    <lastmod>2016-12-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anthony-m.-poole/</loc>
+    <lastmod>2016-09-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/avoidance/</loc>
+    <lastmod>2016-09-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/renwick-cj-dobson/</loc>
+    <lastmod>2016-09-20T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alicia-sook-wei-lai/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hisham-eldai/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lars-barquist/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nick-r.-thomson/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicole-e.-wheeler/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/patrick-j.-biggs/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/areba1/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stephanie-mcgimpsey/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stinus-lindgreen/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wenting-liu/</loc>
+    <lastmod>2014-10-30T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mirna-binding/</loc>
+    <lastmod>2011-09-16T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hasan-ogul/</loc>
+    <lastmod>2011-09-16T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mahinur-s-akkaya/</loc>
+    <lastmod>2011-09-16T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sinan-u-umu/</loc>
+    <lastmod>2011-09-16T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/y-yener-tuncel/</loc>
+    <lastmod>2011-09-16T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/sinan-u.-umu/</loc>
+  </url>
   
 </urlset>

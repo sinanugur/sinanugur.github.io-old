@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahinur S Akkaya | myRNA, yet another RNA blog.</title>
+    <link>/author/mahinur-s-akkaya/</link>
+      <atom:link href="/author/mahinur-s-akkaya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mahinur S Akkaya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Sep 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mahinur S Akkaya</title>
+      <link>/author/mahinur-s-akkaya/</link>
+    </image>
+    
+    <item>
+      <title>A probabilistic approach to microRNA-target binding</title>
+      <link>/publication/mirna-binding/</link>
+      <pubDate>Fri, 16 Sep 2011 00:00:00 +0200</pubDate>
+      <guid>/publication/mirna-binding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
